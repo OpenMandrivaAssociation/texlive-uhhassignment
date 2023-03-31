@@ -1,6 +1,6 @@
 Name:		texlive-uhhassignment
 Version:	44026
-Release:	1
+Release:	2
 Summary:	A document class for typesetting homework assignments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uhhassignment
