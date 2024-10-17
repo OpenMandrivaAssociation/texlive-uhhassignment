@@ -3,7 +3,7 @@ Version:	44026
 Release:	2
 Summary:	A document class for typesetting homework assignments
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uhhassignment
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uhhassignment
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uhhassignment.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uhhassignment.doc.r%{version}.tar.xz
